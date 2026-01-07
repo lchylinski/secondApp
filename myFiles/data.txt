@@ -1,0 +1,2 @@
+stalone: 1947,
+szwarceneger: 1948
